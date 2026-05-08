@@ -1,2 +1,2 @@
 # Task_ManagerJs
-A group project done by Conrad, Nia and Nathan
+Creators: Conrad, Nia and Nathan
